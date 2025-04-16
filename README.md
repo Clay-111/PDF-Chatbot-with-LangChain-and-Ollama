@@ -1,6 +1,6 @@
 # 📄 PDF Q&A Chatbot with LangChain and Ollama
 
-A chatbot that intelligently answers questions from uploaded PDFs using the DeepSeek-R1 language model.
+A simple RAG (Retrieval-Augmented Generation) system using Deepseek, LangChain, and Streamlit to chat with PDFs and answer complex questions about your local documents.
 
 ## 🚀 Features
 - Upload any PDF document.
