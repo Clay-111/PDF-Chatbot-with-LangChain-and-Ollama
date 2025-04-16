@@ -20,3 +20,12 @@ A chatbot that intelligently answers questions from uploaded PDFs using the Deep
 - PDF parsing with `pdfplumber`
 
 
+## ⚙️ Setup Instructions
+1. **Install Ollama** (https://ollama.com/)
+2. Pull the model:
+   ```bash
+   ollama pull deepseek-r1:14b
+
+✨ Demo
+- Coming soon
+
