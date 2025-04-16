@@ -25,7 +25,20 @@ A simple RAG (Retrieval-Augmented Generation) system using Deepseek, LangChain, 
 2. Pull the model:
    ```bash
    ollama pull deepseek-r1:14b
+3. Clone this repo:
+   ```bash
+   git clone https://github.com/yourusername/pdf-qa-chatbot.git
+   cd pdf-qa-chatbot
+4. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+5. Run the app:
+   ```bash
+   streamlit run app.py
 
-✨ Demo
-- Coming soon
+📌 Notes
+- Ensure the chat-with-pdf/pdfs/ directory exists or is created by the script.
+- The chatbot can handle complex questions and provide reasoning-based answers from the PDF context.
+
+
 
