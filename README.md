@@ -14,10 +14,10 @@ A simple RAG (Retrieval-Augmented Generation) system using Deepseek, LangChain, 
 
 ## 🛠️ Tech Stack
 - Python
-- [Streamlit](https://streamlit.io/)
 - [LangChain](https://www.langchain.com/)
 - [Ollama](https://ollama.com/)
 - PDF parsing with `pdfplumber`
+- [Streamlit](https://streamlit.io/)
 
 
 ## ⚙️ Setup Instructions
